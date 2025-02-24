@@ -3,7 +3,7 @@
 ### 🎓 Sophomore | Computer Science and Engineering | IIT Jodhpur  
 
 📌 **About Me:**  
-- 🔭 I’m currently working on **ML, DSA, and Robotics**  
+- 🔭 I’m currently working on **ML and DSA**  
 - 🌱 Learning **Supervised Learning (ML), DSA (C++), and Computer Vision**  
 - 🏆 **3rd place** in **Inter IIT Tech Meet 13.0 - ISRO Challenge**  
 - 🚀 Passionate about **AI, Robotics, and Software Development**  

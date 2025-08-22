@@ -10,8 +10,9 @@
 
 📫 **Reach Me At:**  
 - **Email:** [bnshekokar@gmail.com](mailto:bnshekokar@gmail.com)  
-- **LinkedIn:** [bhargav-shekokar](https://www.linkedin.com/in/bhargav-shekokar/)  
-- **GitHub:** [BhargavShekokar3425](https://github.com/BhargavShekokar3425)  
+- **LinkedIn:** [bhargavshekokar](https://www.linkedin.com/in/bhargavshekokar/)  
+- **GitHub:** [BhargavShekokar3425](https://github.com/BhargavShekokar3425)
+- **Portfolio:** [Bhargav Shekokar](https://bhargav-portfolio-app.vercel.app)
 
 ---
 

@@ -1,7 +1,9 @@
-# Bhargav Shekokar
+# Hello. Bhargav Shekokar here :)
+
+![Oggy Heatwave](assets/your.gif)
 
 ``` bash
-> Sophomore @ IIT Jodhpur
+> Pre-final Year @ IIT Jodhpur
 > Computer Science & Engineering
 ```
 
@@ -15,9 +17,9 @@
 
 ``` cpp
 Name        = "Bhargav Shekokar"
-Focus       = ["Computer Vision", "Robotics", "Systems"]
+Focus       = ["Computer Vision", "Database", "System Design", "Machine Learning"]
 Currently   = "Building. Learning. Competing."
-Philosophy  = "The best way to predict the future is to create it."
+Philosophy  = "Its never too late to do anything.."
 ```
 
 ------------------------------------------------------------------------

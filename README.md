@@ -1,6 +1,6 @@
 # Hello. Bhargav Shekokar here :)
 
-![Oggy Heatwave](evil-laugh-planning-something-evil.gif)
+![Oggy Heatwave](sample.gif)
 
 ``` bash
 > Pre-final Year @ IIT Jodhpur

@@ -9,7 +9,7 @@
 
 [Portfolio](https://bhargav-portfolio-app.vercel.app) •\
 [LinkedIn](https://www.linkedin.com/in/bhargavshekokar/) •\
-[Email](mailto:bnshekokar@gmail.com)
+[Email](mailto:bnshekokar@gmail.com): bnshekokar@gmail.com
 
 ------------------------------------------------------------------------
 
@@ -48,7 +48,6 @@ Academics         | CGPA: 8.01 / 10
 ## /current_interests
 
 -   Vision-based Systems\
--   Autonomous Systems\
 -   Efficient ML Systems\
 -   Low-level performance optimization\
 -   Database management
